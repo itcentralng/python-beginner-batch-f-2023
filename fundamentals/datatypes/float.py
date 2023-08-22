@@ -1,5 +1,4 @@
-# Intialization
-
-height = 17.6
-weight = 168.6
-temp = -168.6
+height = 17.8
+weight = 65.8
+score = 29.1
+score2 = -20.6

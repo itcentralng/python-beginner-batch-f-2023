@@ -1,15 +1,7 @@
-# Initialization
-friends = [
-    "Ibro", 
-    "Musa", 
-    'Mubarak', 
-    "Aisha", 
-    "Hadiza"
-    ]
+people = []
+friends = ["Hanif", "Ahmed", "Alameen", "Abdulateef"]
+items = [1, 1.7, "Ahmed", [1, 2, 3, [1.5, 5.1]]]
 
-shoppingList = [ 
-    ["Apple", "Mango", "Tomato"], 
-    ["Milk", "Sugar", "Coffee"] 
-    ]
+# METHODS
 
-# Methods
+# OPERATIONS

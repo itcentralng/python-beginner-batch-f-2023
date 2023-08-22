@@ -1,17 +1,43 @@
-# Intialization
-name = "Ibrahim"
-name2 = 'Ahmad'
-name3 = """Musa"""
+name = "Ahmed"
 
-print(name)
-print(name2)
-print(name3)
+sentence = """Hi, I am 19 years old"""
 
-Ibrahim = ""
-IbRahiM = ""
-firstName = ""
-LastName = ""
-first_name = ""
-last_name = ""
+age = '19'
 
-# Methods
+# METHODS
+person = "musa"
+
+print(person.capitalize())
+
+person = "IBRAHIM"
+print(person.casefold())
+
+print(person.center(11, '*'))
+
+print(person.count('I'))
+
+person2 = "Hanif"
+
+print(person2.endswith("if"))
+
+print("I go to {school} and it is {pronoun}".format(school="Zamani", pronoun="annoying"))
+
+person3 = "Alameen"
+print(person3.find('lameen'))
+
+person4 = "Abdulateef"
+print(person4.isalnum())
+
+person5 = "Ahmad"
+print(person5.index("a"))
+
+example = "My name is ahmad"
+
+print(example.isalpha())
+
+example2 = "23456"
+print(example2.isdigit())
+
+# OPERATIONS
+
+# print(person[0:4])

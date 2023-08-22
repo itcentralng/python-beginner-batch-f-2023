@@ -1,10 +1,5 @@
-# Intializaiton
+people = ("Ahmed", "Bashir", "Sani")
 
-friends = ("Ahmad", "Sani", "Yarima", "Bakura")
+# METHODS
 
-shoppingList = (
-    ("Cashew", "Carrot", "Guava"),
-    ("Biscuit", "Chocolate", "Sweet")
-)
-
-# Methods
+# OPERATIONS

@@ -1,4 +1,3 @@
-# Initialization
-
-age = 26
-debt = -2000
+age = 15
+profit = -20
+schoolbag = 10
