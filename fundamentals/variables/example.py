@@ -1,18 +1,8 @@
-ahmad = "Ahmad"
-age = 15
+ahmad = "ahmad"
+number = 20
+people = "alamin, ramalan, hanif, abdullah"
 
-_name_ = "Ibrahim"
+20people = 10
+_person = "Musa"
 
-first_name = "Qasim"
-
-firstName = "Hanif"
-
-NAME = "hassan"
-
-1person = "Ibrahim"
-
-$ibrahim = "Ibro"
-
-print = "Isa"
-
-class = "Hassan"
+class = "JSS1"

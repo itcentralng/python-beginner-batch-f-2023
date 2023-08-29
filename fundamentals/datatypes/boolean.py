@@ -1,0 +1,2 @@
+itRaining = True
+itsSunny = False
