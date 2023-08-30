@@ -1,6 +1,6 @@
 people = [ ]
 friends = ["Hanif", "Ahmed", "Alameen", "Abdulateef"]
-items = [1, 1.7, "Ahmed", 1, [1, 1, 1, 2, 3, [1.5, 5.1]]]
+items = [1, 1.7, "Ahmed"]
 
 a = "5.1"
 b = "True"
@@ -17,18 +17,31 @@ friends.clear()
 print(friends)
 
 items2 = items.copy()
+items3 = items
 
+
+
+print(items)
 print(items2)
+print(items3)
+name = items.pop()
+print(items)
+print(items2)
+print(items3)
+
+print('Hi my name is '+name)
+
+
 items2.append('Anisa')
 print(items2)
 print(items)
 
 print(items.count(1))
 
-print(items[2].startswith('A'))
-print(items)
-print(items.pop(2).startswith('A'))
-print(items)
+# print(items[2].startswith('A'))
+# print(items)
+# print(items.pop(2).startswith('A'))
+# print(items)
 
 alphas = ['B', 'C', 'D']
 alphas.extend('EFGHAA')
