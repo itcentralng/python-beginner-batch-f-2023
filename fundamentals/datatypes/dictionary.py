@@ -37,3 +37,7 @@ person.update([['school','Capital School'], ['class','JSS1']])
 print(person.values())
 
 # OPERATIONS
+
+person2 = {'name':'Hanif school', 'age':10}
+print(person2.get('Hanif', 'Amina'))
+print(person2['name'])
