@@ -1,2 +1,0 @@
-itRaining = True
-itsSunny = False
