@@ -8,3 +8,5 @@ name2 = 'Usman'
 name3 = """Yusuf"""
 
 # METHODS
+
+# OPERATIONS
