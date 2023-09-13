@@ -13,5 +13,7 @@ A string is a sequence of characters like for example letters numbers.
 
 A variable like a named storage location.its can also be assigned multiple and different values during 
 during the process of programming.
+ 
+
 
  

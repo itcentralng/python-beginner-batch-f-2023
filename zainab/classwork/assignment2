@@ -1,3 +1,0 @@
-name3="zainab"
-
-print(name3.startswith("z"))

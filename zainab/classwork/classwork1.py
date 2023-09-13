@@ -1,26 +1,26 @@
-names=["maryam","ebube","zakari"("jogging,"strolling")]
+names=["maryam","ebube","zakari",("jogging","strolling")]
 places=["abuja","holiday","enjoy"]
-subjects["practicals","chemistry"]
+subjects=["practicals","chemistry"]
 items=[("utensils","gadgets")]
-things["drinks","snacks"("cars","bikes")]
+things=["drinks","snacks","cars","bikes"]
 
 movies=("madman","encounter")
 country=("education","mexico","peakyblinders")
 website=("youtube")
 subject=("maths","english")
-("houseofdragons")
+movies=("houseofdragons")
 
-{"project:robotcreation"({"name:zainab"})"movies:bluebeetle"}
-{"peace:nigeria"}
-{"university:kasu"("language:chinese")}
-{("team:chelsea")("country:bacelona")}
-{("names:aisha,zakiyya,abdullahi,shedrack")}
+school={"project":"robotcreation","name":"zainab","movies":"bluebeetle"}
+living={"peace":"nigeria"}
+university={"university":"kasu","language":"chinese"}
+football={"team":"chelsea","country":"bacelona"}
+names={"names":"aisha","zakiyya":"abdullahi"}
 
 
 numbers= 123
 randomnum= 2337
-matrices= +023552
-index= 00355
+matrices= +23552
+index= 355
 evennum= 246810
 
 decimals= 0.7352
@@ -34,3 +34,11 @@ niceBreakFast=True
 takeABreak=False
 flipFlops=True
 iLikeSchool=False
+
+name5="sani"
+
+print(name5.endswith("i"))
+
+print(name5.capitalize())
+
+print(name5.startswith("s"))
