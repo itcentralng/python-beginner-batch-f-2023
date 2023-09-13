@@ -24,3 +24,13 @@ print(name4.count('x', 0, 6))
 print(name4.endswith('d'))
 
 # OPERATIONS
+ 
+name="zakiyya"
+print(name.endswith("z"))
+
+assignment="technology"
+print(assignment.capitalize())
+
+name23="maryam"
+print(name23.replace("mar","cia"))
+

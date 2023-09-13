@@ -1,0 +1,35 @@
+#extend
+name= ["thecrown","churchill"]
+subjects= ["maths","history"]
+name.extend(subjects)
+print(name)
+
+#index
+learning= ["desert","forest","island"]
+p=learning.index("forest")
+print(p)
+
+#insert
+activity= ["football","baseball","tabletennis"]
+activity.insert(1,"javelin")
+print(activity)
+
+#remove
+gadgets= ["phones","laptops","headphones"]
+gadgets.remove("laptops")
+print(gadgets)
+
+#reverse
+h= ["manners"]
+gadgets.reverse()
+print(gadgets)
+
+#sort
+direct= ["go","down"]
+direct.sort()
+print(direct)
+
+#pop
+ride= ["bus","keke","mota"]
+ride.pop(0)
+print(ride)
