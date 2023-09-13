@@ -1,24 +1,24 @@
 # write 5 examples for each of the following
 # - List
 names = ['amina','suwaiba']
-emotions = ['happiness','achievement'['satisfaction','pleasure','depression'] 'certainty']
+emotions = ['happiness','achievement',['satisfaction','pleasure','depression'], 'certainty']
 fruits = ['mango', 'strawberry', 'cashew', 'watermelon']
 clothes = ['blouse', 'skirt', 'shirt','trousers']
-places = ['market', 'houses',['schools', 'teachers','students']'mosques','churches']
+places = ['market', 'houses',['schools', 'teachers','students'], 'mosques','churches']
 
 # - Tuple
 names = ('muhsina','ibrahim')
-clothing = ('necklace', 'earrings','rings'['dress', 'hats','headtie','shoes'])
+clothing = ('necklace', 'earrings','rings',['dress', 'hats','headtie','shoes'])
 stationaries = ('books','pencils', 'erasers','pen')
-sex = ('boys','girls'['man','woman'] 'sister','brother')
+sex = ('boys','girls',['man','woman'], 'sister','brother')
 gadget = ('phone','laptop','iphone','ipad')
 
 # - dictionary
-{'name':'amina','khadija', 'age':16, 'height:13.5'}
-{'clothes':'blouse', 'dress'['shoes':'halfCover','flat','highHill']}
-{'fruits':'orange','pineapple','strawberry','grape','pear'}
-{'tribe':'hausa','yoruba','igbo'['religion':'islam','christian']}
-{'places':'market','schools',['drugs':'paracetamol','artemether','diclofenac']}
+{'name':'amina', 'age':16, 'height':'13.5'}
+{'clothes':'blouse','shoes':'halfcover'}
+{'fruits':'orange pineapple strawberry grape pear'}
+{'tribe':'hausa yoruba igbo'}
+{'places':'market schools','drugs':'paracetamol artemether diclofenac'}
 
 # - Integer
 age = 30
