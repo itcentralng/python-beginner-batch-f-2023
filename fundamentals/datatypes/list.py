@@ -34,3 +34,18 @@ print(len(scores))
 # print(people[0])
 
 # print(name[0])
+
+print(scores[:3])
+print(scores[3:7])
+print(scores[7:])
+print(scores)
+print(scores.count(16.7))
+print(scores.index(16.7))
+
+cars = ["Honda", "Toyota"]
+cars2 = ("Volvo", "Benz", "BMW", )
+
+car = "Volvo"
+
+cars.extend(cars2)
+print(cars)
