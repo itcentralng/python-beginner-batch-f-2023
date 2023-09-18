@@ -1,0 +1,66 @@
+#string methods
+#replace
+#replace is when the characters get removed and are replaced in the specified place after removal
+#example:
+people= "i love my children"
+x=people.replace("children","parents")
+print(x)
+
+#split
+#split means when a statement gets to be inserted into a string of its own without being in a single sentence
+#example:
+school= "i hate economics"
+x=school.split()
+print(x)
+
+#format
+#format means to format a specified value in a string
+#example:
+
+#join
+#join means to bring together the values separated inside a string 
+#example:
+
+#find
+#find means it searches the string for a specified value
+#example:
+sentence= "holiday is the best"
+x= sentence.find("holiday")
+print(x)
+
+#list methods
+#copy
+#copy means it returns the copy of the list
+#example:
+fruits= ["pineapple","grapes","pear"]
+x= fruits.copy()
+print(x)
+
+#index
+#index returns index of the first value
+#example:
+name4= ["zainab","mohammad","sani"]
+x= name4.index("mohammad")
+print(x)
+
+#extend
+#extend means to add values tp the end of the current list
+#example:
+subjects= ["maths","english","history"]
+schools= ["zamani","futureleaders","essence"]
+subjects.extend(schools)
+print(subjects)
+
+#insert
+#insert means it adds a value to a specified position
+#example:
+shoes= ["scketchers","snickers"]
+shoes.insert(1 ,"heels")
+print(shoes)
+
+#reverse
+#reverse means it does the reversing inside a list
+#example:
+designerbrands= ["celine","dior","stella mccartney"]
+designerbrands.reverse()
+print(designerbrands)
