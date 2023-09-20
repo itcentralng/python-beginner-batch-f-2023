@@ -18,6 +18,7 @@ print(vegetables.split('.'))
 # - Example
 Address = "{name} works at {place}, {state}."
 print(Address.format(name = "Salima", place = "Kasu", state = "Kaduna"))
+print(Address.format(name = "Nakir", place = "Saloon", state = "Sokoto"))
 
 #   (d)join - this string method takes all items in an iterable and joins them into one string.
 # - Example
