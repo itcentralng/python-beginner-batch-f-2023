@@ -148,6 +148,8 @@ print("This is Mylist with the duplicates:", Mylist2)
 Mylist2 = list(dict.fromkeys(Mylist2))
 print("This is Mylist without the duplicates:", Mylist2)
 
+print(set(Mylist2))
+
 
 """
 **Tuples:**
