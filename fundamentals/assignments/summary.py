@@ -22,6 +22,9 @@
 """
 # Write your answers here:
 
+example_tuple = 1, 2, 3, 4
+print(example_tuple[0])
+
 """
 **Dictionaries:**
 1. How do you create a dictionary in Python?
@@ -29,6 +32,10 @@
 3. How do you get the value for a given key in a dictionary?
 """
 # Write your answers here:
+example_dict = {'name':'Aisha Shedrack'}
+example_dict['age'] = 19
+example_dict.setdefault('height', '1.9m')
+print(example_dict)
 
 """
 Practice questions:
@@ -39,6 +46,20 @@ Practice questions:
 3. Write a Python program to find the most frequent character in a string.
 """
 # Write your answers here:
+example_string = 'name'
+print(example_string[::-1] == example_string)
+
+example_string2 = 'nan'
+
+a = example_string2[0]
+b = example_string2[1]
+c = example_string2[2]
+
+print(a, example_string2.count(a))
+print(b, example_string2.count(b))
+print(c, example_string2.count(c))
+
+
 
 """
 **Lists:**
@@ -48,6 +69,11 @@ Practice questions:
 """
 # Write your answers here:
 
+numbers = [1, 2, 90, 3, 0, 9, 10, 8, 7]
+numbers.sort()
+print(numbers[-1])
+print(numbers[0])
+
 """
 **Tuples:**
 1. Write a Python program to find the length of a tuple.
@@ -56,6 +82,16 @@ Practice questions:
 """
 # Write your answers here:
 
+example2 = "Aisha", "Omale", "Shedrack"
+print(len(example2))
+
+example3 = 2, 1, 8, 0
+example3 = list(example3)
+example3.sort()
+example3 = tuple(example3)
+print(example3[0])
+
+
 """
 **Dictionaries:**
 1. Write a Python program to find the number of key-value pairs in a dictionary.
@@ -63,3 +99,12 @@ Practice questions:
 3. Write a Python program to print all the keys in a dictionary.
 """
 # Write your answers here:
+
+person = {'name':'Ahmad', 'age':16}
+print(len(person))
+print(len(person.items()))
+
+print(person.get('age'))
+print(person.get('friends'))
+
+print(list(person.keys()))
