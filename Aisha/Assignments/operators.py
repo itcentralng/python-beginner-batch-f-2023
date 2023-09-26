@@ -5,7 +5,7 @@
 n = "3"
 num_1 = input("Guess a number between 1 and 10: ")
 
-print(n in num_1)
+print(n == num_1)
 
 # Q2. Write a python program that asks a user to guess if a certain
 # fruit exists in a supermarket
