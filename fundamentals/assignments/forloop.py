@@ -3,3 +3,5 @@
 # if the number is divisible by 5 print "Buzz"
 # if the number is divisible by both 3 and 5 print "FizzBuzz"
 # Otherwise print the number.
+
+# Q2. Loop through your name as a string and print only the vowels in uppercase.
