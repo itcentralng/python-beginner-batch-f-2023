@@ -1,5 +1,5 @@
 person = {'name':'Aisha Aliyu', 'age':10, 'friends':['Zainab', 'Zakiya'], 'hobbies':('swimming', 'reading')}
-
+print(person.get('name'))
 # METHODS
 person2 = person.copy()
 person.clear()
