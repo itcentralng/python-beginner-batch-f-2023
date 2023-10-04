@@ -9,12 +9,21 @@ print(name)
 # +=
 num1 = 5
 
-num1 += 5
-num1 - 5
-num1 = 5
-num1 /= 5
-num1 //= 5
-num1 %= 5
+num2 = 3
+num3 = 4
+
+num1 **= 2
+print(num1)
+
+num3 //= 3
+print(num3)
+
+# num1 += 5
+# num1 - 5
+# num1 = 5
+# num1 /= 5
+# num1 //= 5
+num1 %= 3
 
 print(num1)
 
