@@ -78,13 +78,13 @@
 #     print(mylist.pop())
 
 firstName = "Ahmad"
-lastName = "Uthman"
+lastName = "Usman"
 
 usernames = ["ahus1", "ahus2", "ahus3", "ahus5", "ahus4", "usah1"]
 
 isUnique = False
 counter = 1
-while not isUnique and counter < 5:
+while not isUnique and counter < 10:
     username = "{}{}{}".format(firstName[:2], lastName[:2], counter)
     username = username.lower()
     if username not in usernames:
@@ -92,7 +92,34 @@ while not isUnique and counter < 5:
         usernames.append(username)
     counter += 1
 
-if counter >= 5:
+if counter > 10:
     print("Oops!!! user taken")
 
 print(usernames)
+
+firstName = "Ahmad"
+lastName = "Usaman"
+
+isUnique = False
+counter = 1
+while not isUnique and counter < 10:
+    username = "{}{}{}".format(firstName[:2], lastName[:2], counter)
+    username = username.lower()
+    if username not in usernames:
+        isUnique = True
+        usernames.append(username)
+    counter += 1
+
+if counter > 10:
+    print("Oops!!! user taken")
+
+print(usernames)
+
+# t = 0
+# numbers = []
+# while t < 20:
+#     if t > 0 and t % 2 == 0:
+#         numbers.append(t)
+#     t += 1
+
+# print(numbers)

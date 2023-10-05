@@ -65,11 +65,11 @@
 # check if the current item in loop is in the vowels variable
 # if it is, print it.
 
-x = 'zainab'
-z = 'aieou'
-for i in x:
-    if i in z:
-        print(i)
+# x = 'zainab'
+# z = 'aieou'
+# for i in x:
+#     if i in z:
+#         print(i)
 
 
 
@@ -80,3 +80,12 @@ for i in x:
 # for char in name:
 #     if char.lower() in vowels:
 #         print(char)
+
+print("The Loop Starts")
+
+for n in ["Ahmad", "James", "Zainab"]:
+    print(n)
+
+print("The Loop Ended")
+
+print(n)
