@@ -117,3 +117,6 @@ while playing:
 # to quit or play again.
 # If they choose to play they again, you restart the game, otherwise you quit.
 # Also, keep track of the user names
+
+print("Brand New Game")
+
