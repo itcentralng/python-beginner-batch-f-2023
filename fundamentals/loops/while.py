@@ -8,6 +8,10 @@
 # Pseudocode:
 # 1 - Kabir - Create a list holding values 1-10
 # 2 - Create a while statement that finds odd numbers
+
+
+
+
 # 3 - Create the number that assigns the odd number
 # 4 - Print the result
 
