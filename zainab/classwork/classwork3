@@ -1,0 +1,7 @@
+def adult(name, age):
+    print("hii my name is {}, i am {} years old its nice to meet you".format(name, age))
+
+adult("maryam", 12)
+
+def about
+    
