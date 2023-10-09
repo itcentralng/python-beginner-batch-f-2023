@@ -81,11 +81,19 @@
 #     if char.lower() in vowels:
 #         print(char)
 
-print("The Loop Starts")
+#print("The Loop Starts")
 
-for n in ["Ahmad", "James", "Zainab"]:
-    print(n)
+#for n in ["Ahmad", "James", "Zainab"]:
+    #print(n)
 
-print("The Loop Ended")
+#print("The Loop Ended")
 
-print(n)
+#print(n)
+
+
+num = 0
+integers=[2,4,6,8,10]
+
+while num >=10:
+    print(integers)
+    integers=+2
