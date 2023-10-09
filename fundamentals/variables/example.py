@@ -8,11 +8,9 @@ age2 = 10
 
 firstName = "Muhammad"
 
-20name = 20
+name = ""
 
-$name = ""
-
-name$ = ""
+name = ""
 
 first_name = "Ibrahim"
 
