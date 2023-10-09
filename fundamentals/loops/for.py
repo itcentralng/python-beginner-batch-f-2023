@@ -94,6 +94,4 @@
 num = 0
 integers=[2,4,6,8,10]
 
-while num >=10:
-    print(integers)
-    integers=+2
+print(n)
