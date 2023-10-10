@@ -113,7 +113,7 @@ print(bb.rjust(30, "N"))
 aa= 'gemini, dell, samsung, lenovo, zinux, tesla'
 print(aa.rsplit(",", 3))
 
-# rstrip() is used to remove chars from the rigth of a string.
+# rstrip() is used to remove chars from the rigth of a string..
 cc = "CRAZY THINGS ARE HAPPENING£££££££££"
 print(cc.rstrip("£"))
 
@@ -151,3 +151,4 @@ print(hp2.zfill(15))
 # strip() is used to remove spaces in the begining and end of a string.
 ss = "     3.98,    1.4,      12.67   "
 print(ss.strip(" "))
+()

@@ -48,3 +48,23 @@ food.sort()
 print(food)
 food.sort(reverse=True)
 print(food)
+
+# append
+cv = ["shoe, shirt, trouser, cap"]
+cv.append("necklace")
+print(cv)
+
+# clear
+css = ['fame, money, power, love, hate,']
+css.clear()
+print(css)
+
+# copy
+alt = ['sad', 'happy', 'angry', "flattered"]
+alt2 = alt.copy()
+print(alt2)
+
+# count
+fg = ['malali', 'kwaru', 'badarawa', 'sabo', "kwaru"]
+print(fg.count('kwaru'))
+

@@ -2,6 +2,7 @@
 # A string is any data type that is enclosed within quotations
 
 name = "Alameen"
+print(name)
 
 name2 = 'Usman'
 
