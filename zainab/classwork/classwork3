@@ -1,7 +1,30 @@
-def adult(name, age):
-    print("hii my name is {}, i am {} years old its nice to meet you".format(name, age))
+#def adult(name, age):
+ #   print("hii my name is {}, i am {} years old its nice to meet you".format(name, age))
 
-adult("maryam", 12)
+#adult("maryam", 12)
 
-def about
-    
+
+#def intro(name ,age, height):
+ #   print("my name is {}, i am {} yrs old my height is {}".format(name, age, height))
+
+#intro({"name":"ahmad sani", "age":"15", "height":"1.6"})
+
+#list1=["name", "age", "height"]
+#list2=["ahmad sani",15 ,16 ]
+
+#def dictMaker(list1, list2):
+
+   # newdict = {}
+    #index = 0
+    #while index < len(list1):
+     #   newdict[list1[index]]=list2[index]
+      #  index += 1
+    #return newdict
+
+#print(dictMaker(list1, list2))
+
+
+def num9(numbers):
+    print("[]".format(numbers))
+
+num9 (1, 2, 3, 4, 5, 6, 7, 8, 9, 10)
