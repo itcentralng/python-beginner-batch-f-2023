@@ -39,3 +39,6 @@ def number_to_list(number):
 num = 12345
 result = number_to_list (num)
 print(result)    
+
+#numbertolist(5)
+#[1, 2, 4, 5, 6]
