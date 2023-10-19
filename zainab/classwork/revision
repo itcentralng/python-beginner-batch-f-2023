@@ -1,0 +1,63 @@
+
+fact="everybody will die"
+x=fact.capitalize()
+print(x)
+
+#casefold
+we="NOBODY IS PERFECT"
+a=we.casefold()
+print(a)
+
+#count
+hobbies= "i can draw, drawing is a part of me"
+s=hobbies.count("can")
+print(s)
+
+#endswith
+subjects="biology"
+hard=subjects.endswith("y")
+print(hard)
+
+#format
+
+#index
+comment= "i am brave"
+y=comment.index("brave")
+print(y)
+
+#isalnum
+batchnum= "fatima"
+x=batchnum.isalnum()
+print(x)
+
+#isalpha
+uni= "kasu44"
+x=uni.isalpha()
+print(x)
+
+#islower
+remove= "tinubu as a PRESIDENT"
+x=remove.islower()
+print(x)
+
+#isnumeric
+scores= "aunt"
+x=scores.isnumeric()
+print(x)
+
+#lower
+#replace
+fruits= "orange has an orange colour"
+x=fruits.replace("orange","apple")
+print(x)
+
+#split
+home= "i love my house"
+x=home.split()
+print(x)
+
+#startswith
+#strip
+
+
+#methods of a list

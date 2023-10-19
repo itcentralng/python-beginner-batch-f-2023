@@ -41,7 +41,7 @@ print()
 if d==a and e==b and b==c:
     print("Have fun dearest booklover! Hope you love our books.")
 else:
-    print("Your password or username is incorect. Please try again.")
+    print("Your password or username is incorrect. Please try again.")
     d = input("Booklover username: ")
     e = input("Booklover password: ")
 

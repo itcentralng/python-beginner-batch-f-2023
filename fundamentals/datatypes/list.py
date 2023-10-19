@@ -1,5 +1,6 @@
 people = ["Aisha", "Shedrack", "Abdul"]
-
+Numbers = [1 ,2, 3, 4, 5]
+Num1  = [1.1, 3.2, 4.5, [ 'Muhammad', "Hauwa"], ("Python Students")]
 items = ["Yusuf", ["Zainab", []]]
 
 # METHODS
@@ -21,11 +22,19 @@ print(items2)
 print(items3)
 
 scores = [14.5, 16.7, 20, 14.5, 2, 9, 10, 2, 9, 9]
+
+v = scores.pop(1)
+print(scores)
 x = scores.count(16.7)
 print(x)
 
 print(len(scores))
 
+mylist = [1, 34, 5, v]
+
+print(mylist)
+
+print(scores.sort(reverse=False))
 
 # OPERATIONS
 
