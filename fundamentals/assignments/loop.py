@@ -81,8 +81,8 @@ while playing:
         if len(states) == len(usedStates):
             playing = False
             print("Goodbye, you've exhausted our levels")
-        else:
-            
+       
+
 
 # Q2. Write a State and Capital Game where users are presented with a state
 # for which they provide the capital, if they are correct the program

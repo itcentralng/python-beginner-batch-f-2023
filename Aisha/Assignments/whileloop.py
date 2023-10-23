@@ -14,7 +14,7 @@ while num <=10 :
 intlist = [1, 2, 3, 4, 5]
 index = 0
 while index < len(intlist):
-    print(intlist(index))
+    print(intlist)
     index += 1
 
 

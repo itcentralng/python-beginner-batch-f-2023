@@ -1,26 +1,26 @@
-# numbers = [1, 2, 3, 4, 5]
-# name = "Abdullahi"
-# people = [{'name':'Ahmad', 'age':12}, {'name':'James', 'age':22}]
+numbers = [1, 2, 3, 4, 5]
+name = "Abdullahi"
+people = [{'name':'Ahmad', 'age':12}, {'name':'James', 'age':22}]
 
-# print('1.')
-# for number in numbers:
-#     print(number*2)
+print('1.')
+for number in numbers:
+    print(number*2)
 
-# print('2.')
-# for alphabet in name:
-#     print('Char: '+alphabet)
+print('2.')
+for alphabet in name:
+    print('Char: '+alphabet)
 
-# print('3.')
-# for person in people:
-#     print('Name: {} Age: {}'.format(person.get('name'), person.get('age')))
+print('3.')
+for person in people:
+   print('Name: {} Age: {}'.format(person.get('name'), person.get('age')))
 
-# print('4.')
-# for person in people:
-#     print('Name: {name} Age: {age}'.format(name=person.get('name'), age=person.get('age')))
+print('4.')
+for person in people:
+    print('Name: {name} Age: {age}'.format(name=person.get('name'), age=person.get('age')))
 
-# print('5.')
-# for person in people:
-#     print('Name: '+person.get('name')+' Age: '+str(person.get('age')))
+print('5.')
+for person in people:
+    print('Name: '+person.get('name')+' Age: '+str(person.get('age')))
 
 # # Q1. Loop through a list of numbers from 1 - 10 and 
 # # print out all numbers one by one
